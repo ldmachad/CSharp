@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\bin\Debug\net7.0\Pesquisa.exe
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\bin\Debug\net7.0\Pesquisa.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\bin\Debug\net7.0\Pesquisa.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\bin\Debug\net7.0\Pesquisa.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\bin\Debug\net7.0\Pesquisa.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\refint\Pesquisa.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\Pesquisa.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_04\pesquisa\obj\Debug\net7.0\ref\Pesquisa.dll

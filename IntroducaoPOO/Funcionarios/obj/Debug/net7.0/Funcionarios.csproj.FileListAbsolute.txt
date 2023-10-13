@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\bin\Debug\net7.0\Funcionarios.exe
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\bin\Debug\net7.0\Funcionarios.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\bin\Debug\net7.0\Funcionarios.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\bin\Debug\net7.0\Funcionarios.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\bin\Debug\net7.0\Funcionarios.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\refint\Funcionarios.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\Funcionarios.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_08\Exercicios_Aula08\Funcionarios\obj\Debug\net7.0\ref\Funcionarios.dll

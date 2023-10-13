@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\bin\Debug\net7.0\Exercicio_02.exe
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\bin\Debug\net7.0\Exercicio_02.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\bin\Debug\net7.0\Exercicio_02.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\bin\Debug\net7.0\Exercicio_02.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\bin\Debug\net7.0\Exercicio_02.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\refint\Exercicio_02.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\Exercicio_02.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_02\Exercicio_02\obj\Debug\net7.0\ref\Exercicio_02.dll

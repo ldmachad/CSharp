@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.exe
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\refint\PlanoDeSaude.dll
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\csharp\Aula_03\PlanoDeSaude\obj\Debug\net7.0\ref\PlanoDeSaude.dll
